@@ -1,8 +1,4 @@
-# rocket.chat
 
-# DEPRECATED / Archived
-
-Previously the source for the [Rocket.Chat website](https://rocket.chat).  This repo is no longer used
 
 ## Site structure
 
